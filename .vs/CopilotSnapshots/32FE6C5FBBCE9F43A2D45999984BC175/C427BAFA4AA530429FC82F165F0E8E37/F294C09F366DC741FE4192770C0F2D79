@@ -1,7 +1,5 @@
-﻿namespace NotesApp
-{
-    partial class Form1
-    {
+﻿namespace NotesApp {
+    partial class Form1 {
         /// <summary>
         /// Required designer variable.
         /// </summary>
@@ -11,10 +9,8 @@
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
+        protected override void Dispose(bool disposing) {
+            if (disposing && (components != null)) {
                 components.Dispose();
             }
             base.Dispose(disposing);
@@ -26,8 +22,7 @@
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
-        {
+        private void InitializeComponent() {
             this.lbNotes = new System.Windows.Forms.ListBox();
             this.tbNewNote = new System.Windows.Forms.TextBox();
             this.btnNewNote = new System.Windows.Forms.Button();
@@ -98,6 +93,7 @@
             this.tbNoteName.Name = "tbNoteName";
             this.tbNoteName.Size = new System.Drawing.Size(450, 20);
             this.tbNoteName.TabIndex = 6;
+            this.tbNoteName.PlaceholderText = "Novi naziv bilješke";
             // 
             // btnUpdateName
             // 
@@ -137,8 +133,6 @@
         private System.Windows.Forms.Button btnNewNote;
         private System.Windows.Forms.TextBox tbNote;
         private System.Windows.Forms.Button btnSave;
-        private System.Windows.Forms.Button btnDelete;
-        private System.Windows.Forms.TextBox tbNoteName;
-        private System.Windows.Forms.Button btnUpdateName;
     }
 }
+

@@ -18,3 +18,13 @@ D:\Kolacek\ludamapa\lab09-bazepodataka\obj\Debug\NotesApp.csproj.GenerateResourc
 D:\Kolacek\ludamapa\lab09-bazepodataka\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
 D:\Kolacek\ludamapa\lab09-bazepodataka\obj\Debug\NotesApp.exe
 D:\Kolacek\ludamapa\lab09-bazepodataka\obj\Debug\NotesApp.pdb
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.Form1.resources
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.Properties.Resources.resources
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.csproj.GenerateResource.cache
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.exe
+D:\Coding\radovan\lab09\obj\Debug\NotesApp.pdb
+D:\Coding\radovan\lab09\bin\Debug\NotesApp.exe.config
+D:\Coding\radovan\lab09\bin\Debug\NotesApp.exe
+D:\Coding\radovan\lab09\bin\Debug\NotesApp.pdb

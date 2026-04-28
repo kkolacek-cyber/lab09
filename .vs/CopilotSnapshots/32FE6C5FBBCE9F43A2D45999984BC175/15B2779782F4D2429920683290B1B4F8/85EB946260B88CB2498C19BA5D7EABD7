@@ -89,42 +89,5 @@ namespace NotesApp {
             }
             return true;
         }
-
-        public static bool UpdateNoteName(Note note, string newName) {
-            string query = "UPDATE Notes SET Name = @Name WHERE Id = @Id";
-
-            using (SqlConnection sqlConnection = new SqlConnection(Baza.KonekcijskiString())) {
-                using (SqlCommand command = new SqlCommand(query, sqlConnection)) {
-                    command.Parameters.AddWithValue("@Name", newName);
-                    command.Parameters.AddWithValue("@Id", note.Id);
-
-                    sqlConnection.Open();
-                    int result = command.ExecuteNonQuery();
-                    if (result < 0) {
-                        return false;
-                    }
-                    //update lokalni objekt ako je update u bazi uspio
-                    note.Name = newName;
-                }
-            }
-            return true;
-        }
-
-        public static bool DeleteNote(int id) {
-            string query = "DELETE FROM Notes WHERE Id = @Id";
-
-            using (SqlConnection sqlConnection = new SqlConnection(Baza.KonekcijskiString())) {
-                using (SqlCommand command = new SqlCommand(query, sqlConnection)) {
-                    command.Parameters.AddWithValue("@Id", id);
-
-                    sqlConnection.Open();
-                    int result = command.ExecuteNonQuery();
-                    if (result < 0) {
-                        return false;
-                    }
-                }
-            }
-            return true;
-        }
     }
 }

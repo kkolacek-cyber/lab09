@@ -141,4 +141,5 @@
         private System.Windows.Forms.TextBox tbNoteName;
         private System.Windows.Forms.Button btnUpdateName;
     }
-}
+}}
+

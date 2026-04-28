@@ -39,10 +39,6 @@ namespace NotesApp {
         }
 
         private void btnSave_Click(object sender, EventArgs e) {
-            if (lbNotes.SelectedIndex == -1) {
-                MessageBox.Show("Prvo odaberite bilješku koju želite pohraniti");
-                return;
-            }
             bool result = Notes.UpdateNote((Note)lbNotes.Items[lbNotes.SelectedIndex], tbNote.Text);
             if (result == false) {
                 MessageBox.Show("Greška prilikom pohrane");

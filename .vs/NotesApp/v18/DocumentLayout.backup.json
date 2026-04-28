@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\",
+  "WorkspaceRootPath": "D:\\Coding\\radovan\\lab09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|d:\\coding\\radovan\\lab09\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|d:\\coding\\radovan\\lab09\\baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|solutionrelative:baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|d:\\kolacek\\ludamapa\\lab09-bazepodataka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Coding\\radovan\\lab09\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Coding\\radovan\\lab09\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|solutionrelative:notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Coding\\radovan\\lab09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|D:\\Coding\\radovan\\lab09\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A594E4-5ACC-4EAE-B003-1DECBE5F51C3}|NotesApp.csproj|solutionrelative:note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,28 +34,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Coding\\radovan\\lab09\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Coding\\radovan\\lab09\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T12:51:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Form1.cs",
+              "DocumentMoniker": "D:\\Coding\\radovan\\lab09\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Form1.cs",
+              "ToolTip": "D:\\Coding\\radovan\\lab09\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T09:01:45.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Note.cs",
-              "DocumentMoniker": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Note.cs",
+              "DocumentMoniker": "D:\\Coding\\radovan\\lab09\\Note.cs",
               "RelativeDocumentMoniker": "Note.cs",
-              "ToolTip": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Note.cs",
+              "ToolTip": "D:\\Coding\\radovan\\lab09\\Note.cs",
               "RelativeToolTip": "Note.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,11 +76,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Program.cs",
+              "DocumentMoniker": "D:\\Coding\\radovan\\lab09\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Program.cs",
+              "ToolTip": "D:\\Coding\\radovan\\lab09\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,25 +88,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Notes.cs",
-              "DocumentMoniker": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Notes.cs",
+              "DocumentMoniker": "D:\\Coding\\radovan\\lab09\\Notes.cs",
               "RelativeDocumentMoniker": "Notes.cs",
-              "ToolTip": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Notes.cs",
+              "ToolTip": "D:\\Coding\\radovan\\lab09\\Notes.cs",
               "RelativeToolTip": "Notes.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T09:01:45.686Z"
+              "WhenOpened": "2026-04-28T09:01:45.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Baza.cs",
-              "DocumentMoniker": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Baza.cs",
+              "DocumentMoniker": "D:\\Coding\\radovan\\lab09\\Baza.cs",
               "RelativeDocumentMoniker": "Baza.cs",
-              "ToolTip": "D:\\Kolacek\\ludamapa\\lab09-bazepodataka\\Baza.cs",
+              "ToolTip": "D:\\Coding\\radovan\\lab09\\Baza.cs",
               "RelativeToolTip": "Baza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T09:01:45.687Z",
               "EditorCaption": ""
